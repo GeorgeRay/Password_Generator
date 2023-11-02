@@ -7,7 +7,7 @@ const numbers = ['9', '8', '7', '6', '5', '4', '3', '2', '1', '0'];
 
 const nonalphanumeric = ['~', '`', '!', '@', '#', '$', '%', '^', '&', '*', '(',')', '_', '-', '+', '=', '{', '[', '}', ']', '|', ':', ';', '"', "'", '<', ',', '>', '.', '?', '/'];
 
-//password generator: for loop, randon number, switch structure
+//password generator: for loop, random number, switch structure
 let passgene = '';
 let passlength = 12;
 
